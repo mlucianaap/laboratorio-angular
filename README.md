@@ -1,3 +1,7 @@
-# angular-4b5txf
+# Laboratório Angular
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-4b5txf)
+**Nome:** Maria Luciana Almeida Pereira <br>
+**Disciplina:** Programação Web I <br>
+**Professor:** Ronaldo Tadeu Pontes Milfont
+
+Tutorial disponível em: [ angular.io⚡️](https://angular.io/start)
