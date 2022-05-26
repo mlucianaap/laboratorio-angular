@@ -14,6 +14,25 @@
   </head>
   <body>
     <app-root></app-root>
+    <script type="module">
+      // Import the functions you need from the SDKs you need
+      import { initializeApp } from "https://www.gstatic.com/firebasejs/9.8.1/firebase-app.js";
+      // TODO: Add SDKs for Firebase products that you want to use
+      // https://firebase.google.com/docs/web/setup#available-libraries
+    
+      // Your web app's Firebase configuration
+      const firebaseConfig = {
+        apiKey: "AIzaSyAWsrbtzEYKqJJdtSkudSeI0cdQ_URyp5Q",
+        authDomain: "labangular-1.firebaseapp.com",
+        projectId: "labangular-1",
+        storageBucket: "labangular-1.appspot.com",
+        messagingSenderId: "842730089985",
+        appId: "1:842730089985:web:8de0f8c402077a89f45a00"
+      };
+    
+      // Initialize Firebase
+      const app = initializeApp(firebaseConfig);
+    </script>
   </body>
 </html>
 
